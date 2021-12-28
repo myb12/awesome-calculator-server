@@ -44,8 +44,7 @@ const run = async () => {
             let result;
             const filter = { _id: results[0]._id };
             const updateDoc = { $set: { reorderedResult: data } };
-            result = await calculationCollection.updateOne(filter, updateDoc);
-
+            result = await calculationCollection.updateOne(filter, updateDoc)
         })
 
     } finally {
