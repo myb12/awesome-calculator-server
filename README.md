@@ -1,4 +1,4 @@
-# Awesome calculator - A simple clculator to calculate equation from your text file!
+# Awesome calculator - A simple calculator to calculate equations from your text file!
 ## Important Links
 ### Live-link: https://awesome-calculator-myb.netlify.app/
 ### Client-Side-link: https://github.com/myb12/awesome-calculator
@@ -34,7 +34,7 @@
 * NodeJs - v16.13.1
 * Express - v4.17.2
 * MongoDB - v4.2.2
-* Cors Middleware - v
-* Dotenv - v
+* Cors Middleware - v2.8.5
+* Dotenv - v10.0.0
 * Multer - v1.4.4
 * Path - v0.12.7
